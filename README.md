@@ -1,8 +1,8 @@
 #**CSCI 4502: Data Mining**  
-##University of Colorado Boulder  
-##Spring 2016  
+University of Colorado Boulder  
+Spring 2016  
 
-**Team Members**  
+##**Team Members**  
 Stephen Clark  
 Nicholas Nocella  
 Michael Matonte  
